@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GarGouL/react-gh-pages.git/static/css/main.b100e6da.chunk.css",
+    "main.js": "/GarGouL/react-gh-pages.git/static/js/main.7be8eeba.chunk.js",
+    "main.js.map": "/GarGouL/react-gh-pages.git/static/js/main.7be8eeba.chunk.js.map",
+    "runtime-main.js": "/GarGouL/react-gh-pages.git/static/js/runtime-main.b75a16cb.js",
+    "runtime-main.js.map": "/GarGouL/react-gh-pages.git/static/js/runtime-main.b75a16cb.js.map",
+    "static/js/2.5092a21c.chunk.js": "/GarGouL/react-gh-pages.git/static/js/2.5092a21c.chunk.js",
+    "static/js/2.5092a21c.chunk.js.map": "/GarGouL/react-gh-pages.git/static/js/2.5092a21c.chunk.js.map",
+    "index.html": "/GarGouL/react-gh-pages.git/index.html",
+    "precache-manifest.203f4934dbbd779b886489452dbd8f89.js": "/GarGouL/react-gh-pages.git/precache-manifest.203f4934dbbd779b886489452dbd8f89.js",
+    "service-worker.js": "/GarGouL/react-gh-pages.git/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/GarGouL/react-gh-pages.git/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/GarGouL/react-gh-pages.git/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b75a16cb.js",
+    "static/js/2.5092a21c.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.7be8eeba.chunk.js"
+  ]
+}
